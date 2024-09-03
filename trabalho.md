@@ -1,14 +1,17 @@
 #Atividade da semana 2 de 3/9/2024
 ##Caracterizacao do projeto detalhado
+- Grupo definido: Amadeu Lee, José Carlos Lee, Fillipe Albuquerque, Arthur Castro e Arthur Farias.
 - Dominio: gestao de pedidos
 - Tema: Software de gestão de restaurante
 - Objeto: desenvolvimento de design de um software de gerenciamento de pedidos de garçons, conferencia em estoque e controle de operacoes de cozinha para notificacao do status dos pedidos.
 - Beneficios:
-  - Fornecer transparencia sobre o processo de pedido em um restaurante.
+  - Fornecer transparencia sobre o processo de pedido em um restaurante para o proprietario.
+  - Associar pedido a vendas e resultados financeiros.
   - Fornecer uma ferramenta digital para anotar pedidos por mesa.
   - Permitir consultar os insumos disponíveis para a construcao do prato, notificar itens faltantes e permitir o proprietario do restaurante comprar itens faltantes.
   - Acompanhar o ciclo de vida do pedido do cardapio anotado e entregue por um garcom.
 - Atores do restaurante:
+  - Funcionario
   - Garcom
   - Cozinheiro
   - Gerente
@@ -19,11 +22,15 @@
 - O escopo esta com tamanho adequado?
 - A equipe esta em tamanho adequado? Sim. 
 ##Questoes
-- ...
+- As mesas sao identificadas pelo garcom?
+- Os atendimentos sao registrado por mesa?
+- E possivel fazer mais de um pedido por mesa para separar na hora de pagar?
+- E possivel adicionar, editar, consultar e deletar itens de venda (itens do cardapio)?
+- E possivel adicionar, editar, consultar e deletar itens em estoque (itens inteiros ou fracionados para producao do item de venda)?
+- E possivel ver entrada no caixa, por funcionario, ao longo de um intervalo de tempo?
 ##Anotacoes
 - Repositorio criado no Github.
 - Tema escolhido para o trabalho.
-- Grupo definido: Amadeu Lee, José Carlos Lee, Fillipe Albuquerque, Arthur Castro e Arthur Farias.
 ##Links
 - Referencias:
   - https://www.linkedin.com/products/mediasoftbd-restaurant-management-software/
