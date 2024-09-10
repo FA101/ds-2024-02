@@ -36,6 +36,6 @@ Ela foi substituída pela edição 25002:2024, 25010:2023 e 25019:2023. O custo 
 
 
 ## Para que servem as normas acima? Na ausência delas, quais seriam os incovenientes? Ligue o conteúdo dessas normas com a noção de design de software.
-As normas 12207, 41010 e 25010 apresentam processos de design, atividades, tarefas e resultados de design, e aspectos de requisitos e avaliação de qualidade de sistemas de softwares para se ter um entendimento sobre o projeto de sistema de software universal no planeta. A sua ausência é a semente do caos por promover as falhas de comunicação, registros e padronização entre as várias formas de se projetar sistemas de software.
+As normas 12207, 42010 e 25010 apresentam processos de design, atividades, tarefas e resultados de design, e aspectos de requisitos e avaliação de qualidade de sistemas de softwares para se ter um entendimento sobre o projeto de sistema de software universal no planeta. A sua ausência é a semente do caos por promover as falhas de comunicação, registros e padronização entre as várias formas de se projetar sistemas de software.
 
 
